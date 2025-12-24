@@ -8,7 +8,7 @@ import google.generativeai as genai
 
 # ------------- Page Config -------------
 st.set_page_config(
-    page_title="Ollam LLaVA Image Storyteller",
+    page_title="Image Storytelling Generator",
     page_icon="📖",
     layout="wide",
 )
