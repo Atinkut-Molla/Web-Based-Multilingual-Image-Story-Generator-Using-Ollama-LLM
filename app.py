@@ -136,7 +136,7 @@ def get_story_model(api_key: str):
     try:
         genai.configure(api_key=api_key)
         # Use the latest stable model - you can change this based on your needs
-        model_name = "gemini-1.5-flash-001"
+        model_name = "gemini-1.5-flash-latest"
         # Alternative models to try if the above fails:
         # model_name = "gemini-1.0-pro"
         # model_name = "gemini-pro"
