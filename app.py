@@ -90,7 +90,7 @@ st.markdown(
 <div class="main-card">
   <div style="text-align:center; margin-bottom: 1.75rem;">
     <h1 style="margin-bottom:0.3rem; font-size:2.3rem;">
-      Ollam LLaVA Image Storyteller
+      Image Storytelling Generator
     </h1>
     <p style="margin:0; font-size:0.95rem; color:#64748b;">
       Transform images into captivating multilingual stories with AI
