@@ -8,7 +8,7 @@ import google.generativeai as genai
 
 # ------------- Page Config -------------
 st.set_page_config(
-    page_title="Image Storytelling Generator",
+    page_title="Multilingual Image Story Generator: An LLM Web Application",
     page_icon="📖",
     layout="wide",
     initial_sidebar_state="collapsed"
