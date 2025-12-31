@@ -1,4 +1,4 @@
-# Ollam LLaVA Image Storyteller 📖
+# Multilingual Image Story Generator: An LLM Web Application 📖
 
 A Streamlit-based web application that turns images into **multilingual stories** using Google's Gemini models.  
 This project is part of the course *Intelligent Software Engineering* @ UCAS.
